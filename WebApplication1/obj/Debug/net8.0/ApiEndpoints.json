@@ -1,8 +1,8 @@
 [
   {
-    "ContainingType": "WebApplication1.Controllers.CustomerController",
+    "ContainingType": "ConsoleApp1.CustomerController",
     "Method": "GetAllProjects",
-    "RelativePath": "Customer",
+    "RelativePath": "api/Customer",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -10,9 +10,9 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "WebApplication1.Controllers.CustomerController",
+    "ContainingType": "ConsoleApp1.CustomerController",
     "Method": "CreateProject",
-    "RelativePath": "Customer",
+    "RelativePath": "api/Customer",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -26,9 +26,9 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "WebApplication1.Controllers.CustomerController",
+    "ContainingType": "ConsoleApp1.CustomerController",
     "Method": "GetProjectById",
-    "RelativePath": "Customer/{id}",
+    "RelativePath": "api/Customer/{id}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -42,9 +42,9 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "WebApplication1.Controllers.CustomerController",
+    "ContainingType": "ConsoleApp1.CustomerController",
     "Method": "UpdateProject",
-    "RelativePath": "Customer/{id}",
+    "RelativePath": "api/Customer/{id}",
     "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
@@ -63,9 +63,9 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "WebApplication1.Controllers.CustomerController",
+    "ContainingType": "ConsoleApp1.CustomerController",
     "Method": "DeleteProject",
-    "RelativePath": "Customer/{id}",
+    "RelativePath": "api/Customer/{id}",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,

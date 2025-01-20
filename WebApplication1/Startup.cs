@@ -1,4 +1,4 @@
-using WebApplication1.Controllers;
+using ConsoleApp1;
 
 var builder = WebApplication.CreateBuilder(args);
 

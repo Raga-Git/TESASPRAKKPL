@@ -3,27 +3,23 @@
   "WorkspaceRootPath": "D:\\Tel U\\Semester 4\\KPL\\TesKPLASPRAK\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0F22CFAB-F3D5-40CE-912D-97516CD90066}|ConsoleApp1\\ConsoleApp1.csproj|d:\\tel u\\semester 4\\kpl\\teskplasprak\\consoleapp1\\orders.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0F22CFAB-F3D5-40CE-912D-97516CD90066}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\orders.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{50DFE13B-F070-4493-AD09-06B0AED1B63A}|WebApplication1\\WebApplication1.csproj|D:\\Tel U\\Semester 4\\KPL\\TesKPLASPRAK\\webapplication1\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50DFE13B-F070-4493-AD09-06B0AED1B63A}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0F22CFAB-F3D5-40CE-912D-97516CD90066}|ConsoleApp1\\ConsoleApp1.csproj|d:\\tel u\\semester 4\\kpl\\teskplasprak\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F22CFAB-F3D5-40CE-912D-97516CD90066}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50DFE13B-F070-4493-AD09-06B0AED1B63A}|WebApplication1\\WebApplication1.csproj|d:\\tel u\\semester 4\\kpl\\teskplasprak\\webapplication1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0F22CFAB-F3D5-40CE-912D-97516CD90066}|ConsoleApp1\\ConsoleApp1.csproj|D:\\Tel U\\Semester 4\\KPL\\TesKPLASPRAK\\consoleapp1\\orders.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0F22CFAB-F3D5-40CE-912D-97516CD90066}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\orders.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50DFE13B-F070-4493-AD09-06B0AED1B63A}|WebApplication1\\WebApplication1.csproj|D:\\Tel U\\Semester 4\\KPL\\TesKPLASPRAK\\webapplication1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50DFE13B-F070-4493-AD09-06B0AED1B63A}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50DFE13B-F070-4493-AD09-06B0AED1B63A}|WebApplication1\\WebApplication1.csproj|d:\\tel u\\semester 4\\kpl\\teskplasprak\\webapplication1\\webapplication1.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{50DFE13B-F070-4493-AD09-06B0AED1B63A}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\webapplication1.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50DFE13B-F070-4493-AD09-06B0AED1B63A}|WebApplication1\\WebApplication1.csproj|d:\\tel u\\semester 4\\kpl\\teskplasprak\\webapplication1\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50DFE13B-F070-4493-AD09-06B0AED1B63A}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7A02682E-1405-4468-9643-F4DE2BA0389A}|ClassLibrary1\\ClassLibrary1.csproj|d:\\tel u\\semester 4\\kpl\\teskplasprak\\classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7A02682E-1405-4468-9643-F4DE2BA0389A}|ClassLibrary1\\ClassLibrary1.csproj|D:\\Tel U\\Semester 4\\KPL\\TesKPLASPRAK\\classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7A02682E-1405-4468-9643-F4DE2BA0389A}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -48,7 +44,7 @@
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
               "ToolTip": "D:\\Tel U\\Semester 4\\KPL\\TesKPLASPRAK\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAuwF0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-20T06:02:11.371Z",
               "EditorCaption": ""
@@ -56,67 +52,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "D:\\Tel U\\Semester 4\\KPL\\TesKPLASPRAK\\WebApplication1\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "D:\\Tel U\\Semester 4\\KPL\\TesKPLASPRAK\\WebApplication1\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "WebApplication1\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T06:03:03.891Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "orders.json",
               "DocumentMoniker": "D:\\Tel U\\Semester 4\\KPL\\TesKPLASPRAK\\ConsoleApp1\\orders.json",
               "RelativeDocumentMoniker": "ConsoleApp1\\orders.json",
               "ToolTip": "D:\\Tel U\\Semester 4\\KPL\\TesKPLASPRAK\\ConsoleApp1\\orders.json",
               "RelativeToolTip": "ConsoleApp1\\orders.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-01-20T06:07:49.338Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "WebApplication1.http",
-              "DocumentMoniker": "D:\\Tel U\\Semester 4\\KPL\\TesKPLASPRAK\\WebApplication1\\WebApplication1.http",
-              "RelativeDocumentMoniker": "WebApplication1\\WebApplication1.http",
-              "ToolTip": "D:\\Tel U\\Semester 4\\KPL\\TesKPLASPRAK\\WebApplication1\\WebApplication1.http",
-              "RelativeToolTip": "WebApplication1\\WebApplication1.http",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-01-20T06:31:07.218Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Startup.cs",
               "DocumentMoniker": "D:\\Tel U\\Semester 4\\KPL\\TesKPLASPRAK\\WebApplication1\\Startup.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Startup.cs",
               "ToolTip": "D:\\Tel U\\Semester 4\\KPL\\TesKPLASPRAK\\WebApplication1\\Startup.cs",
               "RelativeToolTip": "WebApplication1\\Startup.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAwAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-20T06:29:41.551Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Tel U\\Semester 4\\KPL\\TesKPLASPRAK\\WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Tel U\\Semester 4\\KPL\\TesKPLASPRAK\\WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAuwEYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T06:03:03.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Class1.cs",
               "DocumentMoniker": "D:\\Tel U\\Semester 4\\KPL\\TesKPLASPRAK\\ClassLibrary1\\Class1.cs",
               "RelativeDocumentMoniker": "ClassLibrary1\\Class1.cs",
               "ToolTip": "D:\\Tel U\\Semester 4\\KPL\\TesKPLASPRAK\\ClassLibrary1\\Class1.cs",
               "RelativeToolTip": "ClassLibrary1\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T06:04:25.959Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-20T06:04:25.959Z"
             }
           ]
         },

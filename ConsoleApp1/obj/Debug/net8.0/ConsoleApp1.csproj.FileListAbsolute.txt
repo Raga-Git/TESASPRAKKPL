@@ -12,3 +12,5 @@ D:\Tel U\Semester 4\KPL\TesKPLASPRAK\ConsoleApp1\obj\Debug\net8.0\refint\Console
 D:\Tel U\Semester 4\KPL\TesKPLASPRAK\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
 D:\Tel U\Semester 4\KPL\TesKPLASPRAK\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
 D:\Tel U\Semester 4\KPL\TesKPLASPRAK\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
+D:\Tel U\Semester 4\KPL\TesKPLASPRAK\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Tel U\Semester 4\KPL\TesKPLASPRAK\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.sourcelink.json

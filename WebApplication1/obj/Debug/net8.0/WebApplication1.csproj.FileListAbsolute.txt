@@ -33,3 +33,4 @@ D:\Tel U\Semester 4\KPL\TesKPLASPRAK\WebApplication1\obj\Debug\net8.0\refint\Web
 D:\Tel U\Semester 4\KPL\TesKPLASPRAK\WebApplication1\obj\Debug\net8.0\WebApplication1.pdb
 D:\Tel U\Semester 4\KPL\TesKPLASPRAK\WebApplication1\obj\Debug\net8.0\WebApplication1.genruntimeconfig.cache
 D:\Tel U\Semester 4\KPL\TesKPLASPRAK\WebApplication1\obj\Debug\net8.0\ref\WebApplication1.dll
+D:\Tel U\Semester 4\KPL\TesKPLASPRAK\WebApplication1\obj\Debug\net8.0\WebApplication1.sourcelink.json
