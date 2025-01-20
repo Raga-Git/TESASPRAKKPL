@@ -1,0 +1,14 @@
+D:\Tel U\Semester 4\KPL\TesKPLASPRAK\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+D:\Tel U\Semester 4\KPL\TesKPLASPRAK\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+D:\Tel U\Semester 4\KPL\TesKPLASPRAK\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+D:\Tel U\Semester 4\KPL\TesKPLASPRAK\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+D:\Tel U\Semester 4\KPL\TesKPLASPRAK\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+D:\Tel U\Semester 4\KPL\TesKPLASPRAK\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tel U\Semester 4\KPL\TesKPLASPRAK\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Tel U\Semester 4\KPL\TesKPLASPRAK\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+D:\Tel U\Semester 4\KPL\TesKPLASPRAK\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Tel U\Semester 4\KPL\TesKPLASPRAK\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+D:\Tel U\Semester 4\KPL\TesKPLASPRAK\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+D:\Tel U\Semester 4\KPL\TesKPLASPRAK\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+D:\Tel U\Semester 4\KPL\TesKPLASPRAK\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+D:\Tel U\Semester 4\KPL\TesKPLASPRAK\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll

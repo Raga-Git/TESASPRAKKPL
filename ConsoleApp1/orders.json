@@ -1,0 +1,12 @@
+[
+  {
+    "Id": 1,
+    "Customer_name": "Ragadhitya",
+    "Product_name": "Website Development",
+    "Quantity": 10,
+    "Total_price": 100,
+    "Order_date": "12/DEC/2025",
+    "Shipping_address": "Sukabirus",
+    "Status": "pending"
+  }
+]

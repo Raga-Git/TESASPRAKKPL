@@ -1,0 +1,16 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Name": "WebApplication1\\WebApplication1.csproj",
+        "Action": "Start",
+        "DebugTarget": ""
+      },
+      {
+        "Name": "ConsoleApp1\\ConsoleApp1.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
